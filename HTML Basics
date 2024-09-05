@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Website Title Name</title>
+</head>
+<body>
+    <div class="container">
+        <h1>Heading Elements : Heading 1</h1>
+        <h2>Heading 2</h2>
+        <h2>Heading 3</h2>
+        <h2>Heading 4</h2>
+        <h2>Heading 5</h2>
+        <h2>Heading 6</h2>
+        <p>This Is Para</p>
+        <div>Division:Div Is A Block Level Element,Adding New line And 100%Width</div>
+        <span>Span:Span IS Inline Element,Content Background Space ONly</span>
+        <br/>
+        <hr/>
+        <img src="../HTML/codegnan.png"/>
+        <br/>
+        <button>Click Here</button>
+        <Header>Semantic Element</Header>
+        <section>Section Semantic Element</section>
+        <footer>Footer Semantic Element </footer>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi earum porro magnam ex mollitia quidem nulla consequatur perferendis, quis voluptatibus amet, quos placeat iusto ullam dolor vitae est eveniet fuga.</p>
+    </div>
+</body>
+</html>
